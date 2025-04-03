@@ -29,5 +29,5 @@
 
 <h2>Onde me encontrar</h2>
 
-[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/tamires-verissimo-pachêco-xavier-846b30141)](www.linkedin.com/in/tamires-verissimo-pachêco-xavier-846b30141)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/tamires-vp-xavier)](www.linkedin.com/in/tamires-vp-xavier)
 
